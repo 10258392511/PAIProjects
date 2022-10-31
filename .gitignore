@@ -1,2 +1,6 @@
 *__pycache__
 *results_check.byte
+*ipynb
+dev/
+*.npz
+*.bytes
