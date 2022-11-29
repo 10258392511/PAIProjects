@@ -4,3 +4,4 @@
 dev/
 *.npz
 *.bytes
+*.json
